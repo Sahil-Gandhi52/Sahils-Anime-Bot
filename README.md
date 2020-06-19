@@ -3,7 +3,7 @@ The coolest anime bot for discord featuring some of the most famous and coolest 
 
 A cool discord bot featuring anime using the following commands:
 
-a!anime - to play anime
+a!anime - To play anime
 
 a!help - For a help section
 
