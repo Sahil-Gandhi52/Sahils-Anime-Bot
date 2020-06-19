@@ -1,8 +1,6 @@
 # Sahils-Anime-Bot
 The coolest anime bot for discord featuring some of the most famous and coolest anime scenes and music in the world.
 
-Edited in Glitch
-
 A cool discord bot featuring anime using the following commands:
 
 a!anime - To play anime
@@ -20,3 +18,5 @@ Developed with Javascript and the Discord.js library
 Website for the Anime Bot - https://sahilgandhi1000.wixsite.com/funanimebot
 
 Support Server - https://discord.com/invite/XS4bWez
+
+Edited in Glitch
